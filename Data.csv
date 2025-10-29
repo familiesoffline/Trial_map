@@ -1,0 +1,6 @@
+type,map,state,name,address,latitude,longitude,features,website,email
+resort,US_Resorts,VA,Great Wolf Lodge | Williamsburg,"549 E Rochambeau Dr, Williamsburg, VA 23188",37.3479,-76.73069,"pool, slide, playground",https://www.greatwolf.com/williamsburg?utm_source=google&utm_medium=organic&utm_campaign=gmb-williamsburg,
+resort,US_Resorts,NC,Great Wolf Lodge | Concord,"10175 Weddington Rd, Concord, NC 28027",35.362801,-80.712471,"theatre, aquatic park",https://www.greatwolf.com/concord?utm_source=google&utm_medium=organic&utm_campaign=gmb-concord,
+resort,US_Resorts,ME,Cliff House Maine,"591 Shore Rd, Cape Neddick, ME 03902",43.2208306,-70.5820438,"playground, aquatic park",https://www.cliffhousemaine.com,
+resort,US_Resorts,TN,Wilderness at the Smokies,"1424 Old Knoxville Hwy, Sevierville, TN 37876",35.90325,-83.588,aquatic park,https://www.wildernessatthesmokies.com,
+resort,US_Resorts,MD,Princess Royale Oceanfront Resort,"9100 Coastal Hwy, Ocean City, MD 21842",38.4075568,-75.0592835,"aquatic park, playground",https://princessroyale.com/?utm_source=googlebusiness&utm_medium=gmbl&utm_campaign=gmbltraffic,
